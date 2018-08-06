@@ -110,7 +110,7 @@
     <routinesParameter id="_8wbp0JmaEeiNCcw8l0H_wg" name="TalendDate"/>
     <routinesParameter id="_8wdfAJmaEeiNCcw8l0H_wg" name="TalendString"/>
   </parameters>
-  <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="96" posY="160">
+  <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="192" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1" show="false"/>
     <elementParameter field="MEMO_JAVA" name="CODE" value="System.out.println('Hello&quot;);&#xA;"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
